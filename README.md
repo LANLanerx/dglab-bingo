@@ -16,7 +16,7 @@
 ## 🛠️ 从源码构建
 本项目未包含 `libs` 文件夹中的前置 JAR。如果你需要自行编译：
 1. 克隆仓库到本地。
-2. 前往 [Yet Another Bingo (YAB)](链接) 和 [dglib](链接) 的发布页，下载对应版本的 JAR。
+2. 前往 [Yet Another Bingo (YAB)](链接)的发布页，下载对应版本的 JAR。
 3. 将下载的 JAR 放入项目根目录的 `libs/` 文件夹中。
 4. 在终端执行 `./gradlew build`（Windows 下为 `gradlew.bat build`）。
 5. 编译好的模组将生成在 `build/libs/` 目录下。
