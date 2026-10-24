@@ -1,5 +1,5 @@
 # DGLab-Bingo (郊狼 Bingo 联动模组)
-
+![模组Logo](logo.png)
 这是一个基于 Minecraft **Fabric 1.20.1** 的整活模组。它能将 `Yet Another Bingo` 和 `Coyote-Game-Hub` 连接起来。当任意队伍完成 Bingo 目标时，会触发郊狼电击，并在全服聊天栏发送惨叫：“我不会告诉你任何事...饿啊啊啊啊啊！”
 
 ## ⚠️ 安全警告 (务必阅读)
